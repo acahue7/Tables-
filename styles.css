@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+body{
+background-image: url("https://media.istockphoto.com/id/1219802805/photo/empty-classroom-pandemic-concept.webp?b=1&s=170667a&w=0&k=20&c=TYWfWvJgiD21Rb0AacDbCbbujHCoV5X_g5Ucy8UIS-o=");/*The image used*/
+
+background-position: center; /*Center the image*/
+background-repeat: no-repeat; /* Do not repeat the image*/
+background-size: cover; /*Resize the background image to cover the entire container */
+}
+
+
+table{ background-color: antiquewhite;
+}
+
+
+
+p{
+    color: rgb(27, 143, 245);
+}
